@@ -1,0 +1,13 @@
+{
+  "projects": [
+    {
+      "name": "n8n",
+      "dir": "c:\\Users\\Serhii\\projects\\n8n",
+      "app": "",
+      "nextjsPort": 3000,
+      "inngestPort": 0,
+      "prismaPort": 5555,
+      "hasInngest": false
+    }
+  ]
+}
